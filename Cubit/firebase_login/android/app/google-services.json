@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661208335472",
+    "project_id": "firebs-login-ns",
+    "storage_bucket": "firebs-login-ns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661208335472:android:740d9221603d14b0a860b5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661208335472-sv42q98ihhiqubhm001hiig4ka7nk92j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9teiX3qPILMfAsgOI9tbJtaek34QPKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661208335472-sv42q98ihhiqubhm001hiig4ka7nk92j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
